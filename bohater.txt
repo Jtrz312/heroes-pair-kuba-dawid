@@ -1,3 +1,4 @@
  imię: Spiderman
  Świat: Marvel Cinematic Universe
  Cecha: Bardzo silny
+
